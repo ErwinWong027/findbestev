@@ -1,10 +1,13 @@
 # 新能源AI助手 - 智能选车平台
 
-[![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15.5.7-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
 [![Dify](https://img.shields.io/badge/Dify-AI%20Chatbot-1E90FF?style=flat-square)](https://dify.ai/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel)](https://findbestev.vercel.app/)
+
+🚀 **在线预览**: [https://findbestev.vercel.app/](https://findbestev.vercel.app/)
 
 ## 项目简介
 
